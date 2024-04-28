@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github repo](https://github.com/f4ayush/faq-accordion)
-- Live Site URL: [Github page](https://f4ayush.github.io/countdown-timer/)
+- Live Site URL: [Github page](https://faq-accordion-one-tan.vercel.app/)
 
 ## My process
 
