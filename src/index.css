@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: "Kumbh Sans";
+    font-weight: 400;
+    font-size:  12px;
+}
+img.aasasas {
+    position: absolute;
+    /* z-index: 5; */
+    top: 45%;
+    left: -15%;
+    width: 31%;
+}
